@@ -205,10 +205,12 @@ The notebooks handle the following preprocessing steps:
 #### Example 2: Spelling Error
 - **Input**: "he is a senior docter"
 - **T5 Output**: "he is a senior doctor. He is a senior doctor."
+- **ProphetNet**: "he is a doctor."
 
 #### Example 3: Complex Grammar & Spelling
 - **Input**: "Many student thinks that to learn a forein language is difficult because they haven't enough oportunity to practise. In the school, they usualy studies grammar, but not speak much."
 - **T5 Output**: "Many students think that learning a foreign language is difficult because they haven't enough opportunities to practise. In the school, they usually study grammar, but not speak much."
+- **ProphetNet**: "many students think that to learn a foreign language is difficult because they haven't enough opportunities to practise. in school, they usually study grammar,but not speak much. also, the teacher doesn't give advice about how to improve listening skills, which make it harder to understand native speakers. some have tried to watch films without sub - level, but it did not help them much. in fact, it has not helped them much at all."
 
 ## 🔧 Training Details
 
