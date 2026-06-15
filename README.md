@@ -190,9 +190,9 @@ The notebooks handle the following preprocessing steps:
 
 | Model | BLEU Score | ROUGE1 | ROUGE2 | ROUGEL | Training Time |
 |-------|-----------|--------|--------|--------|---------------|
-| **BART** | - | 0.7381 | 0.6663 | 0.7189 | 2h 41m |
-| **ProphetNet** | 0.2845 | 0.7398 | 0.6554 | 0.7187 | 4h 44m |
-| **T5** | **0.3723** | 0.7391 | **0.6694** | 0.7226 | 1h 46m |
+| **BART** | **0.3785** | 0.7381 | 0.6663 | 0.7189 | 2h 41m |
+| **ProphetNet** | 0.2845 | **0.7398** | 0.6554 | 0.7187 | 4h 44m |
+| **T5** | 0.3723 | 0.7391 | **0.6694** | **0.7226** | 1h 46m |
 
 ### Correction Examples
 
