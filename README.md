@@ -199,8 +199,8 @@ The notebooks handle the following preprocessing steps:
 #### Example 1: Simple Grammar Error
 - **Input**: "she have many friends and teacher"
 - **BART Output**: "she has many friends and teachers."
-- **ProphetNet Output**: "she have many friends and teachers."
 - **T5 Output**: "She have many friends and teacher. She has many friends and teacher."
+- **ProphetNet Output**: "she have many friends and teachers."
 
 #### Example 2: Spelling Error
 - **Input**: "he is a senior docter"
